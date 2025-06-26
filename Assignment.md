@@ -49,4 +49,11 @@ List at least **four key concepts or skills** you learned during the Git crash c
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+- A merge conflict occurence
+!["Merge conflict"](github_project_images/merge_conflict.png)
+
+- Resolving the merge conflict by accepting the current change (on the left)
+!["Resolving merge conflict"](github_project_images/resolving_merge_conflict.png)
+
+- Resolved merge conflict
+!["Resolved merge conflict"](github_project_images/resolved_merge_conflict.png)
