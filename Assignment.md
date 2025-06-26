@@ -32,7 +32,7 @@ List at least **four key concepts or skills** you learned during the Git crash c
 
 ### B. Project Board
 
-- My project board with issues that are to be done(Todo), in progress and completed (Done)
+- My project board with issues that are to be done(Todo), In Progress and completed (Done)
 !["Project board"](github_project_images/project_board.png)
 
 ### C. Branching
