@@ -25,15 +25,6 @@ List at least **four key concepts or skills** you learned during the Git crash c
 
 ## 4. Screenshots of Key GitHub Features
 
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
-
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
-
-```markdown
-![Caption](github_project_images/commit_message.png)
-```
-
 ### A. Milestones and Issues
 - A list of the different issues I had in the milestone "Portfolio Landing Page".
 !["Milestone issues"](github_project_images/milestones_issues.png)
